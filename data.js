@@ -1,5 +1,5 @@
 // Default program arguments
-// players: true stands greater than or equal and false stands for less than or equal
+// players: true stands for greater than or equal and false stands for less than or equal
 let vars = {
   "game": "classic",
   "players": [true, 1],
@@ -36,6 +36,7 @@ const Maps = {
     "flooded": 4,
     "frontier": 31,
     "goldmine": 47,
+    "goldminev2": 49,
     "heist": 32,
     "kitchen": 29,
     "moonbase": 20,
@@ -74,6 +75,7 @@ const Maps_long = {
     "Flooded": "flooded",
     "Frontier": "frontier",
     "Goldmine": "goldmine",
+    "Goldmine V2": "goldminev2"
     "Heist": "heist",
     "Kitchen": "kitchen",
     "Moonbase": "moonbase",
@@ -116,6 +118,7 @@ const Classic_maps = {
     "Flooded": "flooded",
     "Frontier": "frontier",
     "Goldmine": "goldmine",
+    "Goldmine V2": "goldminev2"
     "Heist": "heist",
     "Kitchen": "kitchen",
     "Moonbase": "moonbase",
