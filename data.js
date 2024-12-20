@@ -35,8 +35,8 @@ const Maps = {
     "escapes": 6,
     "flooded": 4,
     "frontier": 31,
-    "goldmine": 47,
-    "goldminev2": 49,
+    "goldmine": 49,
+    "goldmineold": 47,
     "heist": 32,
     "kitchen": 29,
     "moonbase": 20,
@@ -75,7 +75,7 @@ const Maps_long = {
     "Flooded": "flooded",
     "Frontier": "frontier",
     "Goldmine": "goldmine",
-    "Goldmine V2": "goldminev2"
+    "Goldmine Old": "goldmineold",
     "Heist": "heist",
     "Kitchen": "kitchen",
     "Moonbase": "moonbase",
@@ -118,7 +118,7 @@ const Classic_maps = {
     "Flooded": "flooded",
     "Frontier": "frontier",
     "Goldmine": "goldmine",
-    "Goldmine V2": "goldminev2"
+    "Goldmine Old": "goldmineold",
     "Heist": "heist",
     "Kitchen": "kitchen",
     "Moonbase": "moonbase",
